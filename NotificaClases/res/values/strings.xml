@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NotificaClases</string>
+    <string name="editText_usuario">Usuario</string>
+    <string name="editText_password">Contraseña</string>
+    <string name="editText_passLDAP">Contraseña LDAP</string>
+    <string name="button_connect">Conectar</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_init_service">Iniciar o parar el servicio</string>
+    <string name="button_iniciar_service">Iniciar</string>
+    <string name="button_parar_service">Parar</string>
+    <string name="textview_titulo">Próximas clases*:</string>
+    <string name="textview_contenido">¡Inicie el servicio para poder ver la siguiente clase!</string>
+    <string name="textview_nota">*Se enviará una notificación antes de que empiece cada clase.</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
